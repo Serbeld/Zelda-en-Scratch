@@ -10,7 +10,11 @@ El juego se desarrolla moviendo el personaje a lo largo del mapa usando las fech
 
 ![](Zelda.gif)
 
-<img src="Fondo.png"/>
-
 El fondo del juego fue tomado de DopellSerch en DeviantArt encontrado en el siguiente link:
 https://www.pinterest.es/pin/392939136223173231/
+
+<img src="Fondo.png"/>
+
+El diagrama de bloques usado en este programa, fue realizado por el programador:
+    Autor: Sergio Luis Beleño Díaz
+    Fecha: 2020-07-24
