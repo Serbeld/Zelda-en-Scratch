@@ -1,5 +1,8 @@
 # Zelda en Scratch
-Este repositorio esta destinado al uso del software de programación Scratch para incentivar el juego, el aprendizaje de programación y la animación desarrollado por niños.
+Este repositorio esta destinado al uso del software de programación Scratch para incentivar el aprendizaje de programación en niños usando el juego.
+
+Para usar Scratch como software de programación es necesario descargarlo sobre su sistema operativo (Windows, Lunux o Mac), en el siguiente link:
+https://www.scratch.school/aprender/descargar-scratch-3-0-a-nuestro-pc/
 
 <img src="Poses.png"/>
 
